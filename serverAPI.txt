@@ -1,0 +1,39 @@
+instruction 
+
+to run server you open the project and run the mainapp.py file 
+
+to the client enter the client directory at clinet project and run npm start comand
+
+to creat databse use db.py file in database folder in project 
+
+
+API
+getApartments()
+the function return all apartments from database 
+with the option to filter apartment 
+
+sendData()
+the function add apartment to the database 
+
+updateData(apartmentid)
+the function update apartment state
+
+getApartmentNumbers()
+the function return the total number of apartments
+
+getCityes(countryname)
+the function return an object conation country id and all its city as an array
+
+logIn()
+the function check if user regesterd and return token containing user email and password
+
+signUp()
+add user to the database
+
+getCountry()
+the function return json with all avialbile country
+
+getApartmentImeges(apartmentid)
+the function return json containig imeges url for choosen apartmentid
+
+ 
