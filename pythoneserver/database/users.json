@@ -1,0 +1,32 @@
+[
+  {
+    "role": "user",
+    "firstname":"user1",
+    "lastname": "lastname1",
+    "email": "user1@gmail.com",
+    "password":"hello word",
+    "phone": "",
+    "status":"active"
+
+  }
+  ,{
+    "role": "user",
+    "firstname":"user1",
+    "lastname": "lastname1",
+    "email": "user3@gmail.com",
+    "password":"hello word",
+    "phone": "",
+    "status":"active"
+
+  }
+  ,{
+    "role": "user",
+    "firstname":"user1",
+    "lastname": "lastname1",
+    "email": "user4@gmail.com",
+    "password":"hello word",
+    "phone": "",
+    "status":"active"
+
+  }
+]
